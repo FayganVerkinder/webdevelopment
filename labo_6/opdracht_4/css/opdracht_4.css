@@ -1,0 +1,29 @@
+body {
+    font-family: Verdana, sans-serif;
+    font-size: 1.1em;
+    background-color: silver;
+    color: darkblue;
+}
+
+h1 {
+    font-variant: small-caps;
+    background-color: red;
+}
+
+a:hover {
+    border: 2px solid blue;
+    padding: 3px;
+}
+
+.stippelrand {
+    border: 1px dotted black;
+}
+
+a {
+    background-image: url('../images/loga.png');
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 40px;
+    color: blue;
+
+}
