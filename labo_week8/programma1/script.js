@@ -14,5 +14,5 @@ let student1 = {
 };
 
 let jsonString = JSON.stringify(student1);
-console.log("👉 JSON string van student1:");
+console.log(" JSON string van student1:");
 console.log(jsonString);
