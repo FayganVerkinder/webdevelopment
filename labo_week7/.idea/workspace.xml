@@ -1,28 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9bc64060-9c24-4b3b-a74a-52d3c09b3ed3" name="Changes" comment="" />
+    <list default="true" id="0636d125-72c5-464c-913c-93a01f531e55" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
+  &quot;associatedIndex&quot;: 1
 }</component>
-  <component name="ProjectId" id="2uiOZgmniaAOYGNknMrgTZnAiqK" />
+  <component name="ProjectId" id="2vLgL9LmK19U4BcdJm1qRgs3jxV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/GitHub/webdevelopment&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -37,15 +51,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9bc64060-9c24-4b3b-a74a-52d3c09b3ed3" name="Changes" comment="" />
-      <created>1742727984596</created>
+      <changelist id="0636d125-72c5-464c-913c-93a01f531e55" name="Changes" comment="" />
+      <created>1743929710032</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1742727984596</updated>
-      <workItem from="1742727985628" duration="2000" />
-      <workItem from="1743328437693" duration="190000" />
-      <workItem from="1743929664121" duration="45000" />
-      <workItem from="1743932937757" duration="213000" />
+      <updated>1743929710032</updated>
+      <workItem from="1743929711095" duration="578000" />
+      <workItem from="1743930430362" duration="56000" />
     </task>
     <servers />
   </component>

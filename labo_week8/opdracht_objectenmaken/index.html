@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>Student Object Builder</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Maak je student-object</h1>
+<form id="studentForm">
+    <label>Voornaam: <input type="text" id="txtVoornaam" required></label><br>
+    <label>Familienaam: <input type="text" id="txtFamilienaam" required></label><br>
+    <label>Geboortedatum: <input type="date" id="txtGeboorteDatum" required></label><br>
+    <label>Straat: <input type="text" id="txtStraat"></label><br>
+    <label>Postcode: <input type="text" id="txtPostcode"></label><br>
+    <label>Gemeente: <input type="text" id="txtGemeente"></label><br>
+    <label>Exen (komma-gescheiden): <input type="text" id="txtExen"></label><br>
+    <label>Aantal auto’s: <input type="number" id="txtAutos" value="0" min="0"></label><br>
+    <button type="submit">Maak object</button>
+</form>
+
+<pre id="output"></pre>
+
+<script src="script.js"></script>
+</body>
+</html>

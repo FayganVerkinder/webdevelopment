@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Contact Manager</title>
+	<link rel="stylesheet" href="styles/styles.css">
+</head>
+
+<body>
+	<form id="persoonForm">
+		<div>
+			<label for="lstPersonen">Personen:</label>
+			<select id="lstPersonen" size="10"></select>
+		</div>
+
+		<div>
+			<input type="button" id="btnNieuw" value="Nieuw">
+		</div>
+
+		<div>
+			<label for="txtVoornaam">Voornaam:</label>
+			<input type="text" id="txtVoornaam">
+			<span class="errorMessage" id="errVoornaam"></span>
+		</div>
+
+		<div>
+			<label for="txtFamilienaam">Familienaam:</label>
+			<input type="text" id="txtFamilienaam">
+			<span class="errorMessage" id="errFamilienaam"></span>
+		</div>
+
+		<div>
+			<label for="txtGeboorteDatum">Geboorte datum:</label>
+			<input type="text" id="txtGeboorteDatum" placeholder="jjjj-mm-dd">
+			<span class="errorMessage" id="errGeboorteDatum"></span>
+		</div>
+
+		<div>
+			<label for="txtEmail">Email:</label>
+			<input type="text" id="txtEmail">
+			<span class="errorMessage" id="errEmail"></span>
+		</div>
+
+		<div>
+			<label for="txtAantalKinderen">Aantal kinderen:</label>
+			<input type="text" id="txtAantalKinderen">
+			<span class="errorMessage" id="errAantalKinderen"></span>
+		</div>
+
+		<div>
+			<input type="button" id="btnBewaar" value="Bewaar">
+		</div>
+	</form>
+
+	<script src="validatie.js"></script>
+	<script src="code.js"></script>
+</body>
+
+</html>
